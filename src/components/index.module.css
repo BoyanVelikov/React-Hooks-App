@@ -1,0 +1,60 @@
+.toggle-text {
+  text-align: center;
+}
+
+.counter {
+  text-align: center;
+}
+
+.btn-toggle-text-btn {
+    background-color: #93CAED;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 20px;
+    border: none;
+}
+
+.btn-counter-increment-btn {
+  background-color: #93CAED;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 20px;
+    border: none;
+}
+
+.toggle-text-paragraph {
+    font-weight: bold;
+}
+
+.counter-text {
+  font-weight: bold;
+}
+
+.display-user-info {
+  text-align: center;
+  font-weight: bold;
+}
+
+.change-number {
+  text-align: center;
+}
+
+.change-number-text {
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn-change-number-btn {
+  background-color: #93CAED;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 20px;
+    border: none;
+    margin-left: 20px;
+}
